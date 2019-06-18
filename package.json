@@ -11,7 +11,7 @@
     "url": "https://github.com/FOCUSBrandsEnterpriseApps/focusbrands-jamba-manuals.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-pro": "^5.8.1",
+    "@fortawesome/fontawesome-free": "^5.8.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
     "@fortawesome/free-light-svg-icons": "^5.8.1",
     "@fortawesome/free-regular-svg-icons": "^5.8.1",
